@@ -1,0 +1,14 @@
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\bin\Debug\XAMLBasics_DataBinding.exe.config
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\bin\Debug\XAMLBasics_DataBinding.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\bin\Debug\XAMLBasics_DataBinding.pdb
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\MainWindow.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\App.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding_MarkupCompile.cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding_MarkupCompile.lref
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\MainWindow.baml
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding.g.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding.Properties.Resources.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_DataBinding\XAMLBasics_DataBinding\obj\Debug\XAMLBasics_DataBinding.pdb

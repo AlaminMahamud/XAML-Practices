@@ -1,0 +1,13 @@
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\bin\Debug\XAMLBasics_TwoWayDataBinding.exe.config
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\bin\Debug\XAMLBasics_TwoWayDataBinding.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\bin\Debug\XAMLBasics_TwoWayDataBinding.pdb
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\MainWindow.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\App.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding_MarkupCompile.cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding_MarkupCompile.lref
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\MainWindow.baml
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding.g.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding.Properties.Resources.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_TwoWayDataBinding\XAMLBasics_TwoWayDataBinding\obj\Debug\XAMLBasics_TwoWayDataBinding.pdb

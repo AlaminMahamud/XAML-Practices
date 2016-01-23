@@ -1,0 +1,14 @@
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\bin\Debug\XAMLBasics.exe.config
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\bin\Debug\XAMLBasics.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\bin\Debug\XAMLBasics.pdb
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics.csprojResolveAssemblyReference.cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\MainWindow.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\App.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics_MarkupCompile.cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics_MarkupCompile.lref
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\MainWindow.baml
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics.g.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics.Properties.Resources.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics\XAMLBasics\obj\Debug\XAMLBasics.pdb

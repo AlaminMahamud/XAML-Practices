@@ -1,0 +1,13 @@
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\bin\Debug\XAMLBasics_MarkupExtensions.exe.config
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\bin\Debug\XAMLBasics_MarkupExtensions.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\bin\Debug\XAMLBasics_MarkupExtensions.pdb
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\MainWindow.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\App.g.cs
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions_MarkupCompile.cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions_MarkupCompile.lref
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\MainWindow.baml
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions.g.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions.Properties.Resources.resources
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions.csproj.GenerateResource.Cache
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions.exe
+c:\users\root\documents\visual studio 2015\Projects\XAMLBasics_MarkupExtensions\XAMLBasics_MarkupExtensions\obj\Debug\XAMLBasics_MarkupExtensions.pdb
